@@ -24,7 +24,6 @@ I'm a passionate Systems Engineering student with a strong foundation in softwar
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/jorgitooCoDe">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=jorgitooCoDe&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgitooCoDe&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
