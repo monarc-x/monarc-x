@@ -19,6 +19,9 @@ I'm a passionate Systems Engineering student with a strong foundation in softwar
   <img align="center" alt="SQL Server" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Django" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Vite" height="35" width="40" src="https://vitejs.dev/logo.svg">
+
 </div><br>
 
 ### GitHub Stats
