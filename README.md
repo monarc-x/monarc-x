@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=3FEEEA&width=435&lines=Hello!+I'm+Jorge+Contreras+Delgado.;Software+Developer.;Web+Designer.;Systems+engineer.;Freelancer.)](https://git.io/typing-svg)
 
-Web developer with a strong foundation in software development and IT support. Skilled in building digital solutions and continuously expanding my expertise in modern technologies.
+Frontend developer with a strong foundation in software development and a passion for data science. Skilled in building dynamic user interfaces and continuously expanding my expertise in modern technologies.
 
 ### Technologies and tools:
 
