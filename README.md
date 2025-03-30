@@ -32,8 +32,8 @@ Frontend developer with a strong foundation in software development and a passio
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/jorgitooCoDe">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgitooCoDe&layout=compact&hide=java,python,c%2B%2B,sql&theme=one_dark_pro"/>
+  <a href="https://github.com/monarc-x">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarc-x&layout=compact&hide=java,python,c%2B%2B,sql&theme=one_dark_pro"/>
   </a>
 </div>
 
