@@ -29,13 +29,6 @@ Frontend developer with a strong foundation in software development and a passio
   <img align="center" alt="Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/monarc-x">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarc-x&layout=compact&hide=java,python,c%2B%2B,sql&theme=one_dark_pro"/>
-  </a>
-</div>
 
 
 
